@@ -12,12 +12,19 @@ h1 {
   font-size: 60px;
 }
 
-<style>
- .profiles-section {
-   text-align: center;
- }
-.surfer {
-  float: left;
-  width: 200px;
+.profile {
+  display: inline-block;
+  text-align: center;
+  margin-right: 20px;
 }
-</style>
+
+.profile img {
+  width: 300px;
+  display: block;
+  margin-right: 40px;
+}
+
+.profile p {
+  margin: 20px;
+  color: white;
+}
