@@ -1,0 +1,23 @@
+body {
+  background-image: url('https://as1.ftcdn.net/v2/jpg/02/20/16/44/1000_F_220164473_VVsYP7fssuwdi2Lxi3LeoGe74ZQTkgW5.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  color: white;
+  font-size: 60px;
+}
+
+<style>
+ .profiles-section {
+   text-align: center;
+ }
+.surfer {
+  float: left;
+  width: 200px;
+}
+</style>
